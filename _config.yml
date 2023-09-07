@@ -79,6 +79,35 @@ content:
 
           *BSc Mathematics and Applied Mathematics*
 
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        sub_title: Jun 2023 - Aug 2023
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Monash University**
+
+          *Research Assistant · Part-time*
+
+      - layout: left
+        sub_title: Jun 2022 - Aug 2022
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **University of Melbourne**
+
+          *Research Assistant · Part-time*
+      - layout: left
+        sub_title: Jun 2020 - Dec 2020
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **SenseTime**
+
+          *Research Intern · Full-time*
+
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
