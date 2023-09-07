@@ -48,8 +48,8 @@ orcid_username: 0000-0001-8175-5381
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  My name is LI Haopeng, and I am a PhD candidate from The University of Melbourne, studying computer vision and video understanding, supervised by Tom Drummond, Mingming Gong, and Qiuhong Ke. My research interests include computer vision, video understanding, and multimodal learning. I have published several papers in recognized journals and conferences, such as TPAMI, WACV, and ICASSP.
-  <a href="https://www.mozilla.org/en-US/">the Mozilla homepage</a>
+  My name is LI Haopeng, and I am a PhD candidate from The University of Melbourne, studying computer vision and video understanding, supervised by <a href="https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en">Tom Drummond</a>, <a href="https://mingming-gong.github.io/">Mingming Gong</a>, and <a href="https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=en">Qiuhong Ke</a>. My research interests include computer vision, video understanding, and multimodal learning. I have published several papers in recognized journals and conferences, such as TPAMI, WACV, and ICASSP.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
