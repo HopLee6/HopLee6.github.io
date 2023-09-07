@@ -31,9 +31,9 @@ orcid_username: 0000-0001-8175-5381
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+- title: Google Scholar
+  icon: ai ai-google-scholar
+  url: https://scholar.google.com/citations?user=YSg_iL4AAAAJ&hl=en
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
