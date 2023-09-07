@@ -95,7 +95,6 @@ content:
           **The University of Melbourne**
 
           *PhD IT and Engineering*
-    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Sep 2017 - May 2020
