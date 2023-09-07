@@ -91,7 +91,77 @@ content:
 
           *2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*
 
-          Haopeng Li, Qiuhong Ke, Mingming Gong, Tom Drummond
+          **Haopeng Li**, Qiuhong Ke, Mingming Gong, Tom Drummond
+
+      - layout: left
+        sub_title: Oct 2022
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation**
+
+          *2022 European Conference on Computer Vision (ECCV)*
+
+          Zhitong Xiong, **Haopeng Li**, Xiao Xiang Zhu
+
+
+      - layout: left
+        sub_title: Sep 2022
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Video Crowd Localization With Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark**
+
+          *IEEE Transactions on Image Processing (TIP)*
+
+          **Haopeng Li**, Lingbo Liu, Kunlin Yang, Shinan Liu, Junyu Gao, Bin Zhao, Rui Zhang, Jun Hou
+
+
+      - layout: left
+        sub_title: Jun 2022
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Video Joint Modelling Based on Hierarchical Transformer for Co-summarization**
+
+          *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+
+          **Haopeng Li**, Qiuhong Ke, Mingming Gong, Rui Zhang
+
+
+      - layout: left
+        sub_title: Dec 2021
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Action-ViT: Pedestrian Intent Prediction in Traffic Scenes**
+
+          *IEEE Signal Processing Letters (SPL)*
+
+          Shengzhe Zhao, **Haopeng Li**, Qiuhong Ke, Liangchen Liu, Rui Zhang
+
+
+      - layout: left
+        sub_title: Apr 2021
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Reconstructive Sequence-Graph Network for Video Summarization**
+
+          *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+
+          Bin Zhao, **Haopeng Li**, Xiaoqiang Lu, Xuelong Li
+
+      - layout: left
+        sub_title: May 2020
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Video Frame Interpolation via Residue Refinement**
+
+          *2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
+
+          **Haopeng Li**, Yuan Yuan, Qi Wang
 
   # - title: A Little More About Me
   #   layout: text
