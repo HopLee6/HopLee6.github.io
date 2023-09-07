@@ -88,15 +88,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2013 - 2017
+        title: Dec 2020 - Now
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **The University of Melbourne**
+
+          *PhD IT and Engineering*
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Sep 2017 - May 2020
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Northwestern Polytechnical University**
 
-          *BSc Mathematics and Applied Mathematics*
+          *MSc Computer Science*
       - layout: left
-        title: 2013 - 2017
+        title: Sep 2013 - Jun 2017
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
