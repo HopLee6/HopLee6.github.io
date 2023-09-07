@@ -32,7 +32,7 @@ orcid_username: 0000-0001-8175-5381
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: ai ai-google-scholar
+  icon: ai ai-google-scholar-square
   url: https://scholar.google.com/citations?user=YSg_iL4AAAAJ&hl=en
 
 # Google Analytics and Tag Manager
