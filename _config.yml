@@ -52,7 +52,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        sub_title: Dec 2020 - Now
+        sub_title: Dec 2020 — Now
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -60,7 +60,7 @@ content:
 
           *PhD · Computer Science*
       - layout: left
-        sub_title: Sep 2017 - May 2020
+        sub_title: Sep 2017 — May 2020
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -68,7 +68,7 @@ content:
 
           *MSc · Computer Science*
       - layout: left
-        sub_title: Sep 2013 - Jun 2017
+        sub_title: Sep 2013 — Jun 2017
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -80,7 +80,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        sub_title: Jun 2023 - Aug 2023
+        sub_title: Jun 2023 — Aug 2023
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -89,7 +89,7 @@ content:
           *Research Assistant · Part-time*
 
       - layout: left
-        sub_title: Jun 2022 - Aug 2022
+        sub_title: Jun 2022 — Aug 2022
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -97,7 +97,7 @@ content:
 
           *Research Assistant · Part-time*
       - layout: left
-        sub_title: Jun 2020 - Dec 2020
+        sub_title: Jun 2020 — Dec 2020
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
