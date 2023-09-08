@@ -86,10 +86,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           **University of Melbourne, Melbourne, Australia**
 
-          *Tutor · Part-time*
+          *Tutor · Part-time · Computer Vision*
           
-          Subject: Computer Vision
-
       - layout: left
         sub_title: Jun 2023 — Aug 2023
         # quote: >
@@ -97,9 +95,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Monash University, Melbourne, Australia**
 
-          *Research Assistant · Part-time*
-
-          Project: Bridge Completion Cheating Detection
+          *Research Assistant · Part-time · Bridge Completion Cheating Detection*
 
       - layout: left
         sub_title: Jun 2022 — Aug 2022
@@ -108,10 +104,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           **University of Melbourne, Melbourne, Australia**
 
-          *Research Assistant · Part-time*
+          *Research Assistant · Part-time ·Sports Video Understanding *
 
-          Project: Sports Video Understanding
-          
       - layout: left
         sub_title: Jun 2020 — Dec 2020
         # quote: >
@@ -119,9 +113,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **SenseTime Group Ltd, Beijing, China**
 
-          *Research Intern · Full-time*
-
-          Project: Crowd Analysis
+          *Research Intern · Full-time · Crowd Video Analysis*
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
