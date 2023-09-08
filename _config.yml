@@ -58,7 +58,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **The University of Melbourne**
 
-          *PhD IT and Engineering*
+          *PhD · IT and Engineering*
       - layout: left
         sub_title: Sep 2017 - May 2020
         # quote: >
@@ -66,7 +66,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Northwestern Polytechnical University**
 
-          *MSc Computer Science*
+          *MSc · Computer Science*
       - layout: left
         sub_title: Sep 2013 - Jun 2017
         # quote: >
@@ -74,7 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Northwestern Polytechnical University**
 
-          *BSc Mathematics and Applied Mathematics*
+          *BSc · Mathematics and Applied Mathematics*
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
