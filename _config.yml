@@ -113,7 +113,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Progressive Video Summarization via Multimodal Self-supervised Learning**
+          **Progressive Video Summarization via Multimodal Self-supervised Learning** <a href="https://arxiv.org/pdf/2201.02494.pdf" target="_blank">[Paper]</a> <a href="https://github.com/HopLee6/SSPVS-PyTorch" target="_blank">[Code]</a> 
 
           *2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*
 
