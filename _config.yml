@@ -56,6 +56,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          <img src="images/unimelb.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
+
           **University of Melbourne, Melbourne, Australia**
 
           *PhD · Computer Science*
@@ -64,6 +66,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          <img src="images/nwpu.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
+
           **Northwestern Polytechnical University, Xi'an, China**
 
           *MSc · Computer Science*
@@ -72,6 +76,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          <img src="images/nwpu.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
+
           **Northwestern Polytechnical University, Xi'an, China**
 
           *BSc · Mathematics and Applied Mathematics*
@@ -84,6 +90,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          <img src="images/unimelb.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
+
           **University of Melbourne, Melbourne, Australia**
 
           *Tutor · Part-time · Computer Vision*
@@ -93,6 +101,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          <img src="images/monash.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
+
           **Monash University, Melbourne, Australia**
 
           *Research Assistant · Part-time · Bridge Completion Cheating Detection*
@@ -102,6 +112,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          <img src="images/unimelb.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
+
           **University of Melbourne, Melbourne, Australia**
 
           *Research Assistant · Part-time · Sports Video Understanding*
@@ -111,7 +123,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          <img src="images/profile.jpeg" alt="drawing" style="width:50px;float:left;margin:10px 15px 0px 0px"/>
+          <img src="images/sensetime.jpeg" alt="drawing" style="width:55px;float:left;margin:10px 15px 0px 0px"/>
           
           **SenseTime Group Ltd, Beijing, China**
 
