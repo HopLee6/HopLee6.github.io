@@ -169,7 +169,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Video Crowd Localization With Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark** <a href="https://arxiv.org/pdf/2107.08645.pdf" target="_blank">[Paper]</a> <a href="https://github.com/HopLee6/VSCrowd-Dataset" target="_blank">[Dataset]</a>
+          **Video Crowd Localization with Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark** <a href="https://arxiv.org/pdf/2107.08645.pdf" target="_blank">[Paper]</a> <a href="https://github.com/HopLee6/VSCrowd-Dataset" target="_blank">[Dataset]</a>
 
           *IEEE Transactions on Image Processing (TIP)*
 
