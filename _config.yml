@@ -136,7 +136,8 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Progressive Video Summarization via Multimodal Self-supervised Learning** 
-          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2201.02494.pdf) [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/SSPVS-PyTorch)](https://github.com/HopLee6/SSPVS-PyTorch)
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2201.02494.pdf) 
+          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/SSPVS-PyTorch)](https://github.com/HopLee6/SSPVS-PyTorch)
 
           *2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*
 
@@ -147,8 +148,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Precondition and Effect Reasoning for Action Recognition** <a href="https://arxiv.org/pdf/2112.10057.pdf" target="_blank">[Paper]</a>
-
+          **Precondition and Effect Reasoning for Action Recognition** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2112.10057.pdf)
           *Computer Vision and Image Understanding (CVIU)*
 
           Hongsang Yoo, **Haopeng Li**, Qiuhong Ke, Liangchen Liu, Rui Zhang
@@ -158,7 +159,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation** <a href="https://arxiv.org/pdf/2208.00306.pdf" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/shadowxzt/dacm-few-shot.pytorch)](https://github.com/shadowxzt/dacm-few-shot.pytorch)
+          **Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2208.00306.pdf)
+          [![GitHub Repo stars](https://img.shields.io/github/stars/shadowxzt/dacm-few-shot.pytorch)](https://github.com/shadowxzt/dacm-few-shot.pytorch)
 
           *2022 European Conference on Computer Vision (ECCV)*
 
@@ -170,9 +173,11 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Video Crowd Localization with Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark** <a href="https://arxiv.org/pdf/2107.08645.pdf" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset)](https://github.com/HopLee6/VSCrowd-Dataset)
+          **Video Crowd Localization with Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2107.08645.pdf)
+          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset)](https://github.com/HopLee6/VSCrowd-Dataset)
 
-          *IEEE Transactions on Image Processing (TIP)*
+          *IEEE Transactions on Image Processing (T-IP)*
 
           **Haopeng Li**, Lingbo Liu, Kunlin Yang, Shinan Liu, Junyu Gao, Bin Zhao, Rui Zhang, Jun Hou
 
@@ -182,9 +187,11 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Video Joint Modelling Based on Hierarchical Transformer for Co-summarization** <a href="https://arxiv.org/pdf/2112.13478.pdf" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/VJMHT-PyTorch)](https://github.com/HopLee6/VJMHT-PyTorch)
+          **Video Joint Modelling Based on Hierarchical Transformer for Co-summarization** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2112.13478.pdf)
+          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/VJMHT-PyTorch)](https://github.com/HopLee6/VJMHT-PyTorch)
 
-          *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+          *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*
 
           **Haopeng Li**, Qiuhong Ke, Mingming Gong, Rui Zhang
 
@@ -194,7 +201,8 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Action-ViT: Pedestrian Intent Prediction in Traffic Scenes** <a href="https://ieeexplore.ieee.org/abstract/document/9645208" target="_blank">[Paper]</a>
+          **Action-ViT: Pedestrian Intent Prediction in Traffic Scenes** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9645208)
 
           *IEEE Signal Processing Letters (SPL)*
 
@@ -206,9 +214,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Reconstructive Sequence-Graph Network for Video Summarization** <a href="https://arxiv.org/pdf/2105.04066.pdf" target="_blank">[Paper]</a>
+          **Reconstructive Sequence-Graph Network for Video Summarization** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2105.04066.pdf)
 
-          *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+          *IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)*
 
           Bin Zhao, **Haopeng Li**, Xiaoqiang Lu, Xuelong Li
 
@@ -217,7 +226,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Video Frame Interpolation via Residue Refinement** <a href="https://ieeexplore.ieee.org/abstract/document/9053987" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/RRIN-PyTorch)](https://github.com/HopLee6/RRIN-PyTorch)
+          **Video Frame Interpolation via Residue Refinement** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9053987)
+          <[![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/RRIN-PyTorch)](https://github.com/HopLee6/RRIN-PyTorch)
 
           *2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
 
