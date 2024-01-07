@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
   * Video Understanding
   * Multimodal Learning
   
-  I have published several papers in recognized journals and conferences, such as TPAMI, ECCV, WACV.
+  I have published several papers in recognized journals and conferences, such as T-PAMI, ECCV, WACV.
 
 content:
   - title: Education # Title for the section
@@ -150,6 +150,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Precondition and Effect Reasoning for Action Recognition** 
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2112.10057.pdf)
+          
           *Computer Vision and Image Understanding (CVIU)*
 
           Hongsang Yoo, **Haopeng Li**, Qiuhong Ke, Liangchen Liu, Rui Zhang
@@ -228,7 +229,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Video Frame Interpolation via Residue Refinement** 
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://ieeexplore.ieee.org/abstract/document/9053987)
-          <[![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/RRIN-PyTorch)](https://github.com/HopLee6/RRIN-PyTorch)
+          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/RRIN-PyTorch)](https://github.com/HopLee6/RRIN-PyTorch)
 
           *2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
 
