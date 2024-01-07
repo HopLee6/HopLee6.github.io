@@ -157,7 +157,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation** <a href="https://arxiv.org/pdf/2208.00306.pdf" target="_blank">[Paper]</a> <a href="https://github.com/shadowxzt/dacm-few-shot.pytorch" target="_blank">[Code]</a> 
+          **Doubly Deformable Aggregation of Covariance Matrices for Few-Shot Segmentation** <a href="https://arxiv.org/pdf/2208.00306.pdf" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/shadowxzt/dacm-few-shot.pytorch)](https://github.com/shadowxzt/dacm-few-shot.pytorch)
 
           *2022 European Conference on Computer Vision (ECCV)*
 
@@ -169,7 +169,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Video Crowd Localization with Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark** <a href="https://arxiv.org/pdf/2107.08645.pdf" target="_blank">[Paper]</a> <a href="https://github.com/HopLee6/VSCrowd-Dataset" target="_blank">[Dataset]</a>
+          **Video Crowd Localization with Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark** <a href="https://arxiv.org/pdf/2107.08645.pdf" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/VSCrowd-Dataset)](https://github.com/HopLee6/VSCrowd-Dataset)
 
           *IEEE Transactions on Image Processing (TIP)*
 
@@ -181,7 +181,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Video Joint Modelling Based on Hierarchical Transformer for Co-summarization** <a href="https://arxiv.org/pdf/2112.13478.pdf" target="_blank">[Paper]</a> <a href="https://github.com/HopLee6/VJMHT-PyTorch" target="_blank">[Code]</a> 
+          **Video Joint Modelling Based on Hierarchical Transformer for Co-summarization** <a href="https://arxiv.org/pdf/2112.13478.pdf" target="_blank">[Paper]</a> [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/VJMHT-PyTorch)](https://github.com/HopLee6/VJMHT-PyTorch)
 
           *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
 
