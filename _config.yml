@@ -137,7 +137,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Progressive Video Summarization via Multimodal Self-supervised Learning** 
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2201.02494.pdf) 
-          [![Static Badge](https://img.shields.io/badge/Paper-8A2BE2)](https://openaccess.thecvf.com/content/WACV2023/supplemental/Li_Progressive_Video_Summarization_WACV_2023_supplemental.pdf) 
+          [![Static Badge](https://img.shields.io/badge/Supp-8A2BE2)](https://openaccess.thecvf.com/content/WACV2023/supplemental/Li_Progressive_Video_Summarization_WACV_2023_supplemental.pdf) 
           [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/SSPVS-PyTorch)](https://github.com/HopLee6/SSPVS-PyTorch)
 
           *2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*
