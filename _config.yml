@@ -280,7 +280,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: Be Proud of Yourself 🌈
+references_title: Be Proud of Yourself
 
 # Build settings
 remote_theme: sproogen/resume-theme
