@@ -154,7 +154,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Answering from Sure to Uncertain: Uncertainty-Aware Curriculum Learning for Video Question Answering** 
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2401.01510.pdf)
-
+          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/Sports-QA)](https://github.com/HopLee6/Sports-QA)
+ 
           *IEEE Transactions on Multimedia (T-MM)*
 
           **Haopeng Li**, Qiuhong Ke, Mingming Gong, Tom Drummond
