@@ -281,15 +281,7 @@ content:
   - title: Awards and Honors # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        sub_title: Oct 2019
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
 
-          **China National Scholarship**
-
-          *Ministry of Education of the People's Republic of China*
 
       - layout: left
         sub_title: Mar 2020
@@ -302,7 +294,19 @@ content:
           *The University of Melbourne*
 
       - layout: left
-        sub_title: Mar 2020
+        sub_title: Oct 2019
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+
+          **China National Scholarship**
+
+          *Ministry of Education of the People's Republic of China*
+
+
+
+      - layout: left
+        sub_title: Apr 2016
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
