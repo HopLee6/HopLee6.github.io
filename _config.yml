@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   * Multimodal Learning
   * Generative Models
   
-  I have published several papers in recognized journals and conferences, such as T-PAMI, ECCV, WACV.
+  I have published several papers in recognized journals and conferences, such as T-PAMI, T-IP, ECCV, ICML.
 
 content:
   - title: Education # Title for the section
