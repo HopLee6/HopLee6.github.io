@@ -134,6 +134,17 @@ content:
     content:
 
       - layout: left
+        sub_title: May 2024
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Weighted Visual-Text Cross Alignment via Localized Visual Prompting** 
+  
+          *2024 International Conference on Machine Learning (ICML)*
+
+          Jinhao Li, **Haopeng Li**, Sarah Monazam Erfani, Lei Feng, James Bailey, Feng Liu
+
+      - layout: left
         sub_title: Jan 2023
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
