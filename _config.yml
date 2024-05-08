@@ -139,6 +139,7 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Weighted Visual-Text Cross Alignment via Localized Visual Prompting** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://icml.cc/virtual/2024/poster/34359) 
   
           *2024 International Conference on Machine Learning (ICML)*
 
