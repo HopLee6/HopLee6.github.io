@@ -338,7 +338,6 @@ content:
     content: | # this will include new lines to allow paragraphs
           <div style="text-align: center; font-weight: bold; font-size: 16px;">Reviewer</div>
           <br/><br/>
-
           - *Neural Information Processing Systems (NeurIPS) 2024*
 
           - *ACM Multimedia (ACMMM) 2024*
