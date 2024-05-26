@@ -336,13 +336,13 @@ content:
   - title: Professional Service # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-          - **NeurIPS 2024**
+          - **Reviewer for Neural Information Processing Systems (NeurIPS) 2024**
 
-          - **ACMMM 2024**
+          - **Reviewer for ACM Multimedia (ACMMM) 2024**
 
-          - **CVPR 2024**
+          - **Reviewer for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024**
 
-          - **WACV 2023**
+          - **Reviewer for IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023**
 
       
           
