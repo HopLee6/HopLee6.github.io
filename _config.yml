@@ -338,17 +338,18 @@ content:
     content:
 
       - layout: left
+      sub_title: Reviewer
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
 
-          **Reviewer for NeurIPS 2024**
+          **NeurIPS 2024**
 
-          **Reviewer for ACMMM 2024**
+          **ACMMM 2024**
 
-          **Reviewer for CVPR 2024**
+          **CVPR 2024**
 
-          **Reviewer for WACV 2023**
+          **WACV 2023**
 
       
           
