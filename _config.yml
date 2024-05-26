@@ -336,7 +336,8 @@ content:
   - title: Professional Service # Title for the section
     layout: text # Type of content section (list/text)
     content: | # this will include new lines to allow paragraphs
-          **Reviewer**:
+          **<p style="text-align: center;">Reviewer</p>**
+
 
           - *Neural Information Processing Systems (NeurIPS) 2024*
 
