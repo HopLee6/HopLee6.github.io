@@ -140,8 +140,10 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Weighted Visual-Text Cross Alignment via Localized Visual Prompting** 
+          **Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models** 
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://icml.cc/virtual/2024/poster/34359) 
+          [![GitHub Repo stars](https://img.shields.io/github/stars/JinhaoLee/WCA)](https://github.com/JinhaoLee/WCA)
+
   
           *2024 International Conference on Machine Learning (ICML)*
 
