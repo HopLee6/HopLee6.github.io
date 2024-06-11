@@ -45,15 +45,17 @@ additional_links:
 about_title: Personal Profile
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Haopeng (Hop) Li, a PhD candidate from the School of Computing and Information Systems, The University of Melbourne, supervised by <a href="https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en" target="_blank">Tom Drummond</a>, <a href="https://mingming-gong.github.io/" target="_blank">Mingming Gong</a>, and <a href="https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=en" target="_blank">Qiuhong Ke</a>. 
-  I received my B.S. degree in the School of Science, Northwestern Polytechnical University, and the Master degree in the School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University.
-  My research interests include: 
-  * Computer Vision
-  * Video Understanding
-  * Multimodal Learning
-  * Generative Models
-  
-  I have published several papers in recognized journals and conferences, such as T-PAMI, T-IP, ECCV, ICML.
+  My name is Haopeng (Hop) Li, and I am a PhD candidate at the School of Computing and Information Systems, The University of Melbourne. 
+  I am supervised by <a href="https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en" target="_blank">Prof. Tom Drummond</a>, <a href="https://mingming-gong.github.io/" target="_blank">Dr. Mingming Gong</a>, and <a href="https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=en" target="_blank">Dr. Qiuhong Ke</a>. 
+  I received my B.S. degree from the School of Science at Northwestern Polytechnical University, and my Master's degree from the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at Northwestern Polytechnical University.
+
+  My research interests include:
+
+  - Computer Vision
+  - Video Understanding
+  - Multimodal Learning
+  - Generative Models
+  I have published several papers in recognized journals and conferences, including T-PAMI, T-IP, ECCV, and ICML.
 
 content:
   - title: Education # Title for the section
