@@ -142,7 +142,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models** 
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2406.02915) 
-          [![GitHub Repo stars](https://img.shields.io/github/stars/JinhaoLee/WCA)](https://github.com/JinhaoLee/WCA)
+          [![GitHub Repo stars](https://img.shields.io/github/stars/tmlr-group/WCA)](https://github.com/tmlr-group/WCA)
 
   
           *2024 International Conference on Machine Learning (ICML)*
