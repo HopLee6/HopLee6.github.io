@@ -110,7 +110,7 @@ content:
         description: | # this will include new lines to allow paragraphs
 
           **Monash University, Melbourne, Australia**
-
+ 
           *Research Assistant · Bridge Competition Cheating Detection* [![GitHub Repo stars](https://img.shields.io/github/stars/zinuoli/Poker_Detection)](https://github.com/zinuoli/Poker_Detection)
 
       - layout: left
