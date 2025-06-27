@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Haopeng Li
-title: PhD Candidate
+title: PhD
 email: hoplee95@outlook.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -45,8 +45,8 @@ additional_links:
 about_title: Personal Profile
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  My name is Haopeng (Hop) Li, and I am a PhD candidate at the School of Computing and Information Systems, The University of Melbourne. 
-  I am supervised by <a href="https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en" target="_blank">Prof. Tom Drummond</a>, <a href="https://mingming-gong.github.io/" target="_blank">Dr. Mingming Gong</a>, and <a href="https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=en" target="_blank">Dr. Qiuhong Ke</a>. 
+  My name is Haopeng (Hop) Li, and I received my PhD from The University of Melbourne. 
+  I was supervised by <a href="https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en" target="_blank">Prof. Tom Drummond</a>, <a href="https://mingming-gong.github.io/" target="_blank">Dr. Mingming Gong</a>, and <a href="https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=en" target="_blank">Dr. Qiuhong Ke</a>. 
   I received my B.S. degree from the School of Science at Northwestern Polytechnical University, and my Master's degree from the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at Northwestern Polytechnical University.
 
   My research interests include:
@@ -137,6 +137,19 @@ content:
 
     layout: list # Type of content section (list/text)
     content:
+
+      - layout: left
+        sub_title: June 2025
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Admitting Ignorance Helps the Video Question Answering Models to Answer** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/abs/2501.08771)
+          
+          *IEEE Transactions on Multimedia (T-NNLS)*
+
+          **Haopeng Li**, Tom Drummond, Mingming Gong, Mohammed Bennamoun, Qiuhong Ke
+
 
       - layout: top-left
         sub_title: May 2024
