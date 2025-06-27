@@ -102,16 +102,16 @@ content:
 
           **PICO, Beijing, China**
 
-          *AI Algorithm Engineer*
-      - layout: left      
-        sub_title: Aug 2023 — Dec 2023
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+          *AI Algorithm Engineer · Human Visual Perception*
+      # - layout: left      
+      #   sub_title: Aug 2023 — Dec 2023
+      #   # quote: >
+      #   #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      #   description: | # this will include new lines to allow paragraphs
 
-          **The University of Melbourne, Melbourne, Australia**
+      #     **The University of Melbourne, Melbourne, Australia**
 
-          *Tutor · Computer Vision (COMP90086)*
+      #     *Tutor · Computer Vision (COMP90086)*
           
       - layout: left
         sub_title: Jun 2023 — Aug 2023
