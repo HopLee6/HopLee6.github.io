@@ -149,6 +149,19 @@ content:
     content:
 
       - layout: left
+        sub_title: Jun 2025
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Answering from Sure to Uncertain: Uncertainty-Aware Curriculum Learning for Video Question Answering** 
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2401.01510.pdf)
+          
+          *2025 British Machine Vision Conference (BMVC)*
+
+          **Haopeng Li**, Mohammed Bennamoun, Jun Liu, Hossein Rahmani, Qiuhong Ke
+
+
+      - layout: left
         sub_title: June 2025
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -298,18 +311,6 @@ content:
 
 
 
-      - layout: left
-        sub_title: Under Submission
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          **Answering from Sure to Uncertain: Uncertainty-Aware Curriculum Learning for Video Question Answering** 
-          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2401.01510.pdf)
-          
- 
-          *IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)*
-
-          **Haopeng Li**, Qiuhong Ke, Mingming Gong, Tom Drummond
 
 
 
