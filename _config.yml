@@ -149,6 +149,19 @@ content:
     content:
 
       - layout: left
+        sub_title: Jan 2026
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          **Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**  
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2401.01505.pdf)
+          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/Sports-QA)](https://github.com/HopLee6/Sports-QA)
+
+          *International Journal of Computer Vision*
+
+          **Haopeng Li**, Andong Deng, Jun Liu, Hossein Rahmani, Yulan Guo, Bernt Schiele, Mohammed Bennamoun, Qiuhong Ke
+
+      - layout: left
         sub_title: Jun 2025
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -296,16 +309,7 @@ content:
           **Haopeng Li**, Yuan Yuan, Qi Wang
 
 
-      - layout: left
-        sub_title: Under Submission
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          **Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**  
-          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2401.01505.pdf)
-          [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/Sports-QA)](https://github.com/HopLee6/Sports-QA)
 
-          **Haopeng Li**, Andong Deng, Qiuhong Ke, Jun Liu, Hossein Rahmani, Yulan Guo, Bernt Schiele, Chen Chen
 
 
 
