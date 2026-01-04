@@ -47,7 +47,7 @@ about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   My name is Haopeng (Hop) Li, and I received my PhD from The University of Melbourne. 
   I was supervised by <a href="https://scholar.google.com.au/citations?user=6sWGL5wAAAAJ&hl=en" target="_blank">Prof. Tom Drummond</a>, <a href="https://mingming-gong.github.io/" target="_blank">Dr. Mingming Gong</a>, and <a href="https://scholar.google.com/citations?user=84qxdhsAAAAJ&hl=en" target="_blank">Dr. Qiuhong Ke</a>. 
-  I received my B.S. degree from the School of Science at Northwestern Polytechnical University, and my Master's degree from the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at Northwestern Polytechnical University.
+  I received my B.S. degree from the School of Science at Northwestern Polytechnical University, and my Master's degree from the School of Artificial Intelligence, Optics, and Electronics (iOPEN) at Northwestern Polytechnical University. I'm currently a AI algorithm engineer at PICO, ByteDance.
 
   My research interests include:
 
@@ -366,38 +366,42 @@ content:
           *The Consortium for Mathematics and Its Applications (COMAP)*
 
 
-  - title: Professional Services # Title for the section
-    layout: text # Type of content section (list/text)
-    content: | # this will include new lines to allow paragraphs
-          <div style="text-align: center; font-weight: bold; font-size: 16px;">Conference Reviewer</div>
-          <br/>
+  # - title: Professional Services # Title for the section
+  #   layout: text # Type of content section (list/text)
+  #   content: | # this will include new lines to allow paragraphs
+  #         <div style="text-align: center; font-weight: bold; font-size: 16px;">Conference Reviewer</div>
+  #         <br/>
 
-          - *British Machine Vision Conference (BMVC) 2025*
+  #         - *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
+
+  #         - *International Conference on Learning Representations (ICLR) 2026*
+
+  #         - *British Machine Vision Conference (BMVC) 2025*
           
-          - *ACM Multimedia Asia 2024*
+  #         - *ACM Multimedia Asia 2024*
 
-          - *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025*
+  #         - *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025*
           
-          - *Neural Information Processing Systems (NeurIPS) 2024*
+  #         - *Neural Information Processing Systems (NeurIPS) 2024*
 
-          - *ACM Multimedia (ACMMM) 2024*
+  #         - *ACM Multimedia (ACMMM) 2024*
 
-          - *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
+  #         - *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
 
-          - *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023*
+  #         - *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2023*
 
-          - *Asian Conference on Computer Vision (ACCV) 2022*
+  #         - *Asian Conference on Computer Vision (ACCV) 2022*
 
-          <div style="text-align: center; font-weight: bold; font-size: 16px;">Journal Reviewer</div>
-          <br/>
+  #         <div style="text-align: center; font-weight: bold; font-size: 16px;">Journal Reviewer</div>
+  #         <br/>
 
-          - *IEEE Multimedia*
+  #         - *IEEE Multimedia*
 
-          - *IET Image Processing*
+  #         - *IET Image Processing*
 
-          - *Neural Networks*
+  #         - *Neural Networks*
 
-          - *Frontiers in Computer Science*
+  #         - *Frontiers in Computer Science*
       
           
 
