@@ -153,6 +153,18 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
+          **SAM-Veteran: An MLLM-Based Human-like SAM Agent for Reasoning Segmentation**  
+          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://openreview.net/pdf?id=oN55r8iJJW)
+
+          *2026 International Conference on Learning Representations (ICLR)*
+
+          Tianyuan Du, **Haopeng Li**, Zhen Fan, Jiarui Zhang, Panwang Pan, Yang Zhang
+
+      - layout: left
+        sub_title: Jan 2026
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
           **Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports**  
           [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://arxiv.org/pdf/2401.01505.pdf)
           [![GitHub Repo stars](https://img.shields.io/github/stars/HopLee6/Sports-QA)](https://github.com/HopLee6/Sports-QA)
