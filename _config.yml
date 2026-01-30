@@ -153,8 +153,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **SAM-Veteran: An MLLM-Based Human-like SAM Agent for Reasoning Segmentation**  
-          [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://openreview.net/pdf?id=oN55r8iJJW)
+          **SAM-Veteran: An MLLM-Based Human-like SAM Agent for Reasoning Segmentation**  [![Static Badge](https://img.shields.io/badge/Paper-blue)](https://openreview.net/pdf?id=oN55r8iJJW)
 
           *2026 International Conference on Learning Representations (ICLR)*
 
